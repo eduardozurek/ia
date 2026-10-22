@@ -1,11 +1,12 @@
 # Redes Neuronales Artificiales con ScikitLearn
 
-> Conversión de la presentación original a Markdown. Se conserva el orden de las 14 diapositivas y sus enlaces originales. Los esquemas se representan en texto y notación matemática.
+> Conversión de la presentación original a Markdown. Se conserva el orden de las 14 diapositivas y sus enlaces originales. Se incluyen las imágenes y los esquemas originales, junto con su representación en texto y notación matemática.
 
 ---
 
 ## 1. Redes Neuronales Artificiales con ScikitLearn
 
+Clase Modelo  
 por Eduardo Zurek, Ph.D.  
 Profesor Titular ezurek@uninorte.edu.co  
 Departamento de Ingeniería de Sistemas  
@@ -57,6 +58,8 @@ Fuente: scientificstock.com
 
 ## 7. Neurona Artificial & Neurona Biológica
 
+![Esquema original: perceptron](imagenes/perceptron.png)
+
 ### Perceptrón
 
 - Entradas: $x_1, x_2, \ldots, x_N$.
@@ -80,6 +83,8 @@ $$
 ---
 
 ## 8. Descenso del Gradiente
+
+![Esquema original: descenso gradiente](imagenes/descenso_gradiente.png)
 
 Tenemos un conjunto de datos, y suponemos que ese conjunto de datos es explicado por una hipótesis.
 
@@ -105,6 +110,8 @@ Esto nos muestra la relación del error y $h$.
 ---
 
 ## 9. Red Neuronal Artificial Multicapa
+
+![Esquema original: red neuronal multicapa](imagenes/red_neuronal_multicapa.png)
 
 | Capa | Elementos del esquema |
 | --- | --- |
@@ -195,5 +202,3 @@ Clasificación de Lirios (plantas)
 [https://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html](https://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)
 
 ---
-
-## 14. ¡Gracias! ¿Preguntas?
